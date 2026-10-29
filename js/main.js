@@ -358,32 +358,32 @@ const YOUTUBE_PLAYLIST = [
     id: "punjab-gk-1",
     title: "Complete Punjab GK 1-Shot Revision for PPSC & Punjab Police SI (High Yield)",
     tag: "Punjab GK Special",
-    duration: "42:15",
-    videoId: "W6NZfCO5SIk", // Educational YouTube Video embed
+    duration: "20:53",
+    videoId: "aS-0UTBWrDw", // Educational YouTube Video embed
     thumb: "assets/images/hero-coaching.jpg"
   },
   {
     id: "upsc-strategy",
     title: "How to Crack Civil Services from Punjab: 1-Year Roadmap by Toppers",
     tag: "Exam Strategy",
-    duration: "28:40",
-    videoId: "kJQP7kiw5Fk",
+    duration: "7:02",
+    videoId: "MvvS8HIxapU",
     thumb: "assets/images/faculty-mentor.jpg"
   },
   {
     id: "ssc-math-speed",
     title: "SSC CGL Quantitative Aptitude: Top 25 Vedic Math & Speed Calculation Tricks",
     tag: "SSC & Banking",
-    duration: "35:10",
-    videoId: "aqz-KE-bpKQ",
+    duration: "25:42",
+    videoId: "WSArAlaHMKA",
     thumb: "assets/images/library-study.jpg"
   },
   {
     id: "current-affairs-monthly",
     title: "Punjab Economic Survey & Budget 2024-25 Analysis for Naib Tehsildar & Patwari",
     tag: "Current Affairs",
-    duration: "54:20",
-    videoId: "3JZ_D3ELwOQ",
+    duration: "23:49",
+    videoId: "WZomBd5L3ts",
     thumb: "assets/images/campus-reception.jpg"
   }
 ];
